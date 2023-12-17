@@ -195,7 +195,7 @@ export const projects = [
     description:
       "Developed a Frontend web application that have all my details including education,Expreience, project and Contact ",
     image:
-      "https://github.com/iamankit555/ImageStore/assets/55355863/3ed69dc5-179b-4770-8381-250e12e93c7f",
+      "https://private-user-images.githubusercontent.com/55355863/291058623-3ed69dc5-179b-4770-8381-250e12e93c7f.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MTU3OTAsIm5iZiI6MTcwMjgxNTQ5MCwicGF0aCI6Ii81NTM1NTg2My8yOTEwNTg2MjMtM2VkNjlkYzUtMTc5Yi00NzcwLTgzODEtMjUwZTEyZTkzYzdmLlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDEyMTgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRhYzkxZTM3MzE1YTc3ZDcxMjZkYjc3MzZhOGE1YzgzYjY1NGQ4ODAyNmU1ODhjYTI2MTFjNDk4NjkyMzA0ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NHfxQGSRD5UmQIgNvoiRjOlBaWAwi1T-MtPvV_N-lYs",
     tags: ["React Js", "JavaScript", "CSS", "Html"],
     category: "web app",
     github: "https://github.com/iamankit555/portfolio",
