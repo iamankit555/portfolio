@@ -191,7 +191,7 @@ export const projects = [
     description:
       "Developed a Frontend web application that allows users to Explore movie related details.",
     image:
-      "https://github.com/iamankit555/ImageStore/assets/55355863/7b24abfc-254e-4186-8ab8-f771b11b91c8",
+      "https://github.com/iamankit555/ImageStore/assets/55355863/3ed69dc5-179b-4770-8381-250e12e93c7f",
     tags: ["React Js", "JavaScript", "TMDB Api", "Redux"],
     category: "web app",
     github: "https://github.com/iamankit555/movix",
