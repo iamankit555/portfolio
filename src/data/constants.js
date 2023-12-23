@@ -2,10 +2,10 @@ export const Bio = {
   name: "Ankit kumar",
   roles: ["Full Stack Developer", "Software Manual Tester", "Programmer"],
   description:
-    "B.Tech in Computer Science and Engineering from Lovely Professional University with 8.0 CGPA from 2018 to 2022. I got an opportunity to work as Associate Analyst at Wipro Technology in march 2022 In which I was trained on software Development and Manual testing. I worked on React, Java Spring boot, Software Testing related projects such as Life-Ray to React conversion of US HealthCare system. Angular Reimagine. I also got the exposure of Life-ray tolling, Jama, Jira.",
+    "B.Tech in Computer Science and Engineering from Lovely Professional University with 8.0 CGPA from 2018 to 2022. I got an opportunity to work as Associate Analyst at Wipro Technology in march 2022 In which I was trained on software Development and Manual testing. I worked on React, Java Spring boot, Software Testing related projects such as Life-Ray to SPAs conversion of US HealthCare system. Angular Reimagine. I also got the exposure of Life-ray tolling, Jama, Jira.",
   github: "https://github.com/iamankit555?tab=repositories",
   resume:
-    "https://drive.google.com/file/d/13mVRGs-x43s3qaJElOK3ewMOMD8T8MQi/view?usp=drive_link",
+    "https://drive.google.com/file/d/1lJJnNhyOrn76toVMb2E9LfKHh2VMOLYX/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/iamankit555/",
   twitter: "https://www.linkedin.com/in/iamankit555/",
   insta: "https://www.linkedin.com/in/iamankit555/",
@@ -141,6 +141,24 @@ export const experiences = [
       "Upoint Content Editor",
     ],
   },
+  {
+    id: 1,
+    img: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAL0AyAMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAAAQcFBgIDBAj/xABDEAABAwMBBwAGCAIGCwAAAAABAAIDBAURBgcSITFBUWETInGBkbEUIzJCUmKh8EPRFjM0csHhJDZTc4KSoqOywvH/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAQIEBQMG/8QAJBEAAgICAwADAQADAQAAAAAAAAECAwQREiExQVFhIhNCsQX/2gAMAwEAAhEDEQA/ALxREQBERAEREAREQBFCZQBeG7XWks9BNXXCZsNPC3L3OPy7nx5Cm63OltNDNW18zIaeEZe95+Xc+OuV84691rVaurxvZit8RzBBnr+J3d37759KqnNnnOaij6E05qO36ktza61y78ZO65juD43Dm1w6H/6swvlTSWp6/S12bWUD8sdhs0B+xMwdD5HQ819J6Z1DQ6ktUVwt0gcx3B7DwdG7q1w7j9eYVranBkV2cl2ZhEULxPUlERAEREAREQBERAEREAREQBERAEREARRlMqAF4rlcqa10M1bXzMhpoW7z3uPIfz8eV3VVVHS00tRNkRxML3FrS44AycAcSvm/aDrar1bX7se/DbIX/UwHqeW88d/ly759aqnYyk58Ucdfa1q9W1260uht0JzBT8s/md+b991qaIulGKiuKMbfJj3LOaR1PX6Vura2icXMdhs8BPqzN7HsRxwenvKwaZUyipLTIT0z6v05qGh1Ha4rhbZA+J/B7TwdG7q1w7j/ADWWXyxpDVNfpW6NrKJxdG7hPTk+rKzPzHQ+favpax3invdpprlSB4hqGbzRI3dcOOCCPBBXNtqdbNdc+S7MkijKZXkepKIiAIiIAiIgCIiAIiIAiIgCKMpkqARzC8lxuFPbaR9TVyBkbB8T2CXG4QW2lfU1bwyNg/Xsqn1Ffai91hkkyyFpxFFng0d/atmJiSvl+GbIyFVHr07rnqaurbqytikMHoT9QwHIA65756rAat01T3yllvtggEdVGN6uoGj4yMHzHRcl6KKsnoamOopZCyRhyCOvg+F3bcKDgv8AH00cuGTLluXeyrRx6HieRRWPq7TNPfKeW/afhEdSwb9dQNHEd5GDqO4VcYyeHLPVc1b7UvUbPVtBR04nHfwpPLst40XpOB9M2/aiYRbW/wBnp/v1bx0x+HypbJJ0XpOB9O2/6ja4W9v9mpuTqpw/9fK2pmpbhHdm17HBpa3cbCODBH+HHZeK63Ka6VXppvVa1obFE0YbG0cgAvGujThxUd2dtmG3Ibf8daLnsV6przRieD1XDg+M/aYe375rKBUjaLpUWmrbU0z90t4OB5PHYq27Heae80TainIDuT4yeLD2K4mZhyolteHTxslWrT9MoijKLEayUREAREQBERAEREARRlMlARzC8twuFPbqV9TVSBkbBx9vYeUuFwp7fSPqaqQMjYOPt7Dyqn1Jfai+VfpJPUp2H6qLPLyfK14mJK+X4ZsjIVUevSNRX2ovlUZJMsp2nEUWeQ7nysR0wnTHRF9RVXGuPGPiOHObnLkwiIrlT0UNZPQVTKmlkLJGHh2x29i8ertMU97pZL9p2HdqGZdXW9g4jvIwdu4XZ14nHgradDWarq69lexzoKeF2DIOHpMfdHjuufnwhwdj6aNeLKXLijRNE6SilgF91CHNtjDiGnPB9W8dMfhHUrPXS5TXOq9LL6rWtDIoWjDY2joB2W2bQLNVekbcIXOkpY2hvomj+p9g7LRznGSc5Vf/AD4QnH/L6/8AhOVKSlx+Cc5OTzUIi6RiJ9y9toutRaKttTTHH42dHjsvCpzjkq2VxsjxkWjJxe0XRZLxT3ijbUU5APJ8ZPFh7H98VklSVmutRZ6ttRTOP52dHjsrbsl4p7xRiopnDPJ7DzYexXzGZhyolteHbxslWrT9MmijKLEayUREAREQBERAcSvLcK+C3Ur6iqkbHGwcSfl7VyrqyGgpJKqqeGRRjLiVUupL/PfKv1iWUzM+ji6Dye5WvExZZEtfBmyMhVR/RqO/VF7qt+QblOw/VRZ5eT5WH6YzwTpjPBF9RXXGqPGPwcOc3OXJhERXKhOGeJwO6EgAnsth0ppuS8z+mnBZRxnDnfj8D+fRedt0KouUn0Wrg7JcYk6U01LeZhNO0x0bDhzj/E8BWnBTxU8LIYWBkbBgNHIBKamipYGQwMDI2DDWjkAuUkjYo3Pkc1rWjJc44AHfPZfLZWVLIlt+fR3aKI0xOTmNe0tcAQRg5CrTWGljb3PrrewmlJy9g/h+fYrFpKynraaOppJ45oJBlkjDkOHtXc5jXNLXAFpGCCFGNkTolyiTdTG1aZQ/TPDxhQtt1hpY257q23sLqRxy9g/hHv8A3VqeP8l9RRkRvhyicO2qVctMhERex5E5wcjmvbZ7tUWisFRTuPEYkjPJ68KcuSrZCM48ZfJaMnF7RdNmu9Nd6NtRTOB6Ob1aexWSVJ2a7VNmrRUUx5/1kZPB7VblnusF3oWVVKeBOHNPNp7FfMZmI8eW14dvGyVdHT9MiiIsRrCIiAIiIDpnhjqInRTMD2O+01wyCqs1bpqSzSmeAF9C93DvGexVsYXXPTx1ETopmh7HDDmniCFpxcmePLa8M99Ctjr5KJxjnnOMqFsWq9NSWWYz07S+heeB5lh7Fa71xnPDPLC+opthbBSizh2VyrlxkEPAZ7c0PAeVn9LacmvNRvv3o6Nh9eT8Xhvn5foptthVFyk+hCDnLiidK6clvNQJJMx0TD60n4vA8/JWrTU0NJAyCnjEcbBhrW9EpaWGkgjgpoxHFGMNa3kAuUjxGxznua0NGSXHAAHVfLZWVPIlt+fR3KKI0xEkgjjc97mta0ZJccABUPtQ2iOvb5LRZpHNtrTuyzNODUHsPyfNctqG0R15fJaLJKW21pxLM04NQewP4fmq0KvRRr+mRbZt6RuuzrXVRpOq+j1W9NapnfWR8zET95o+YX0PQ1tPX0sdTRysmglaHRyMPBwXyGOGcdVu2znXlRpWq+j1hdJapXevHzMZP3m/4hWvp3/USK7NdM+jXsa9pa5oLSMEEc1WWsdLG2udWW9hNI45e0c4j/JWPRVtPX0sVVRyslglaHRyNPBwXc6Nr2lrxvAjBB6rxxsiePPki91MbY6ZQx8c+iLa9X6VNte6toG5pHHL29Yj/Jap7AR2yvqKMiN8NxOHbVKt6YRFmNOWGovlVusyynYfrZccvA8q9lka48pPorCDm9IabsE97q92PMdPH/WS45DsPKtmgoae3UrKaljDImDAAU2+309upWU1KzcjYOAHXyfK9OF8vl5csiX4dzHx1VH9JREWQ0hERAEREAREQHRPTxVELopmB7HjDgeoVWar01LZpjNAC6iefVJ47h7FWzhdVRSw1ML4Z2CSJ4w5ruRC04uVLHltefR4X0RujplT6W07NeajffllIw+vJ38N8+en6K1qWlgo4GU9NGI4mDDWt5BTSUkFHAyCmjEcTBhrW8gu7CnKypZEtvz6Ix8eNMdHXJII2OdIQ1rRkuJwAOpVFbUdojry+WzWSYi3tOJpmkgznsPy/NXrPBFUQyQzsbJFI0texwyHAjBBHVfP20zZ/JpyZ1ytrHS2iR2COZpieh/L2Pu7ZpRx5f0Xtb10V/7h8ETHx5n2Iuj8GMKFKIEbvs517PparFJWl8toldh7OZhP4m/4hfQtFWRVtLFU00kcsMoDmSRuyHDwvm/QOiqvVtw470Ftgd9fPjifyN/Mf0HHwvo62W2ktVDDQ2+FsNPC3dYxvQfvqufk8eXRrp5a7PQ+NsjCyRoc0jBBGcqsdX6WdbXurKFpdSOOXj/ZH+StHC4viZI0tkG81wwWnkQoxsmdE9oXURtWmU7pyw1F7qtyMltOw/Wy45DsPKtm30FNbqVlNSM3I2Dp18nyudFQU1BAIKOJsUYOd1q9GF6ZeXLIl34Ux8eNS/SURFkNIREQBERAEREAREQBFClAEREBC66inhqYZIaiNskUjS17HDIcDzBXZhSgPnfaXs/l0zO64W5jpLPI7j3pyfun8vY+49M6DjiV9f1FNDUwyQVDGyRStLXseMhwPMFfPm0rQE2mJ3V1vaZLPIeBHE05J+y7x2Pu7Z203b6Zltq12jQ1tWgdF1mrbgR68FuhcPpFRj/pb3d8hx8KNB6Lq9W3DDd6K3wu/wBIqMcvyt7u+Q4+F9H2i10dnt8NBboWw00Ld1jG/PyVN13HpekVVb7ZNqtlHaKCGht0LYKeFu6xjfn5K9mFKLD76awiIgCIiAIiIAiIgCIiAIiIAijK81xrobdb6itqXBkMETpHuPQAIDv3u65qitA66v0mrKaW9TTm2XeR7IWyACNjs+ruHsMYV55KtODiQns5IuG+O4A7lBJkZyOaqSc0XDfxzUekBPquaUByzjn+i6amngqqaSnqY2yRStLXscMhwPMFaxtJi1FNYCzSj3NqvSN9IIzuyOZ2aTwWT0g27s07RN1DI19yDD6Yj2nGfOMZ8qddbI38HvtVrorRRR0Vtp2U9NF9iNnIL2YXEyNBwXAHyU31D36yTmoz8UWt7RquooNFXWqopnw1EUILJGc2neHJEtvRDZsee65LS9k9wrLloqkqrjUy1NQ9z96SQ5J4rcDK1pw5zQfapaaeiTmoyeHVRve5VVY77dZtslfa5rlUyUDBJu05d6gIbnkpUW96IbSLYRdYla4kAgkcwDxCnePZVJOaIiAIiIAiIgIVbbbLrJFY6Ww0biay7TiIMbzLM8c+MkBWRlUTdaSs2ibTa+O21ho4bbH6NlSIyfR7hweo4lxf8F6VJN7ZWXhntoukvoWzm2/QGkT2INl9X/uH4klbla9Uw1OhGake3fDKR0srG899gO83/mBC0yXZZqKaN8c2t6uSN+Q9r2yEPB5g+vxWE0M+pi0/rLRc2DW08czoGDjvnBa4N94B/wCNX4p/JVNnZpawah2iwz3y7agq6OF0pZFDA5wAxzwAcY6d1kItPau0Vqa3OtVZW3i2TvDalj+IawkA5yeB45GMcl7NiN9trNKOopquKKogne90crw0lpOd4A9OPxWc1TtDpbLdrdbLfA25VNXJuOZDMPqySAM+3P6I+XJpII1TVNfe9ZbQX6VtdfLQUNI0unkjdguIHrE444yWtxlTedmt/tFC+4WHUdzqqyA77YDI7L/Zx+a6LVVwWDbfcxdJRA2rY4RSSeq07+64c/7pHkqxtT6vtdhs9RcH1MEz4uEcLZW70j/wjyjbTWkPfTS9c3S9SbKaWsuTZ7fdfTMbMGuMZyMjPA9V23fVNZp7ZLbqulmc64VETIo5pPXLSebuPM4zjPheTX97m1JsnjuktE6kE9VGY4y7JLQSAfZwysdreCaTY/Yp42ZZB6MyHsDy9ylJaW/sf7HssmzS73W2QXC56quLJ6qNspjjlcQ0EZAJzxOFGma+96L1/Fpa6XKS40VY3ejc/JLSfskEnPMYI5cVvukr/aqvTdskjroTinjYQ54y1waMg+VX1dWU1523251ueyqZTx+u+M5DSGnPEduChbbewXPlartS/wBQLz/uR/5BavoHXVa6/XazavrY46mKXFOJWNj643eA49CO6921vU9qh0dW0LayGWpq2hkcUT948wST2HDmqKDUkWb6NYtWpKjTGxakqbecVk0roonkZ3CScu4+AV6LJszvF2tlPcLnqivZPUtEhjZI5wa0jI473ErD6ktVZSbErQJo3Nc2cSyZGCxrt7BP6K1NH6itNbpy3up7hAS2nYx7HSAOa4NAwRleknpbiVXZoGmqy96K2g0+mLjcJbhQVoHo3SOJ3cjgRniOIII5LCXCjuty2uXaisVX9EqZ3Oa+p6xx4G8QeefZhZe81tPettdnNqeKplOWiV8XrNbugl3Hxnj0yvPS3Sgs+2+4VN0nbTwPc6MSSHDWuIAGT0Hnp1Kuunv8I0eu/bNrzZrTU3S36orpJqWIyuY6R4y0DLsHPbut02W6mqNT6ZjmrjvVkH1c0m7jfPHDuHsXbrnUVoptKXPer6cvnppIomMkG89zm4AHvKwOwilni0pJUyNLYqiYmInqASM/FeTbcP6J8l0WciIvE9AiIgCIiA6aiFs9O+FznNa4Yy04IWF0vpC0aW+km0RSsdUkGV8kpeXEZxxPtPxWfwmE29ALXnaOtH9J/wCkcbJo7lyc9kpDXDGCC3lxC2JEW0DR7xsr0tda2SsfTTU8sh3n/R5S1pPs4ge5enTeznTmnKwVtDSyPqm53JZ5N8sz26D4LbsJhS5S1rZHFGu6p0VYtU+jddqQumibusmjcWPA7ZHMe1YGm2PaShnZK+Grm3OTJag7v6AcPCsDCYTlJdDWzDX7TFrvtnZaa2JzaNjmubHC7cxu8hw6cV301joKeyMs3ofS0LYvRejl9bLfKyeFGFG3oaK9m2OaSkkc5sdbG133G1GQPiCf1WwaX0XY9LNkNopSyWUYfNI8ve4e0/JbGitykxo1PU+z3T2pqn6VcKV7and3TNA/cc4eeh96xtu2RaToalk5p6ioLCHBlRNvMyO7QAD7Ct9wpTnLWtjR56uipq2kkpauFktPI3dfG8ZaQtCl2NaSe8lrK6NpP2G1GQPiCVYqjChSkvGNbNb0toew6WfJJaqUiaQbrppXb78dgTyHsXTVbPdN1dwuFdV0Tp5q9pE3pJCRx6tH3T5C2rCYTlL7Giu4djWkWSBzoqyRoOSx1QQD8AD+q32kpIKKmipqSJkUETQ1kbBgNA5Bd+FKlyb9CWgiIqkhERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREB//9k=",
+    role: "Full Stack Internship",
+    company: "Acciojob",
+    date: "july 2021 - Dec 2023",
+    desc: "Learnt more about React,Springboot,HTML,CSS and Problem solving",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "SpringBoot",
+    ],
+  },
 ];
 
 export const education = [
@@ -176,12 +194,70 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "UPOINT Conversion From Liferay to Single Page Application",
+    date: "jan 2023 - current",
+    description:
+      "Objective of this project to convert upoint web page to SPAs from Liferay. More than 300 clients are included which are from US and Canada",
+    image:
+      "https://private-user-images.githubusercontent.com/55355863/291056929-591667b7-7ca6-4e78-8111-74bca8319cd9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDk2NjYsIm5iZiI6MTcwMzM0OTM2NiwicGF0aCI6Ii81NTM1NTg2My8yOTEwNTY5MjktNTkxNjY3YjctN2NhNi00ZTc4LTgxMTEtNzRiY2E4MzE5Y2Q5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDE2MzYwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkZTAxYmNiYTk2OTBhOGNiYmQ1MGU1NGEzM2I0MDRhNjg3ZWNkYjExYjM1ODA0ZmExNjU1NzhkNDRjZTFjNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9n9QaGsl3X80AesO3cDwp4a0Ir9b2iYHfp9KKZyKiDw",
+    tags: [
+      "300+ Us/Canada Clients",
+      "Wipro project",
+      "React Js",
+      "JavaScript",
+      "SpringBoot",
+      "SpringDataJPA",
+      "Redux",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "",
+    member: [],
+  },
+  {
+    id: 1,
+    title: "Annual Enrollment and New Hire Flow redesign the web page",
+    date: "Apr 2023 - Dec 2023",
+    description:
+      "Redesign the structure of AE flow and NH flow. It is a part of UPOINT web application",
+    image:
+      "https://universitycitypartners.org/wp-content/uploads/2017/07/alight-logo.jpg",
+    tags: [
+      "200+ Us/Canada Clients",
+      "Wipro project",
+      "React Js",
+      "JavaScript",
+      "SpringBoot",
+      "SpringDataJPA",
+      "Redux",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "",
+    member: [],
+  },
+  {
+    id: 2,
+    title: "Eazy School Managment",
+    date: "oct 2022 - nov 2023",
+    description:
+      "Developed a web app which can handle school. it is for both user and admin. for fronted HTML, CSS, Thymleaf and for Backend Springboot, mySQL",
+    image:
+      "https://private-user-images.githubusercontent.com/55355863/292510596-fc6fbad3-0c6c-4d7f-a27b-6403a8c55044.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDcwOTksIm5iZiI6MTcwMzM0Njc5OSwicGF0aCI6Ii81NTM1NTg2My8yOTI1MTA1OTYtZmM2ZmJhZDMtMGM2Yy00ZDdmLWEyN2ItNjQwM2E4YzU1MDQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDE1NTMxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiODk4Yzg4NTZmMTE2NmVhOGJkMjYyMDA4MzM2NzU4MjU4ZjdkYzdlOTk3NTZhMTM2NTcxMDNmNjMwOGJlYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RwunPUt5lCxCxKfj9d9tl-F-fIm3Owtj0z8sapT-AFs",
+    tags: ["HTML", "CSS", "JAVA", "SPRINGBOOT", "MYSQL", "THYMLEAF"],
+    category: "web app",
+    github: "https://github.com/iamankit555/EazySchoolFullStackWebApplication",
+    webapp: "https://github.com/iamankit555/EazySchoolFullStackWebApplication",
+    member: [],
+  },
+  {
+    id: 3,
     title: "Movie Application",
     date: "Apr 2023 - May 2023",
     description:
       "Developed a Frontend web application that allows users to Explore movie related details. I have used TMDB api to fetch the movie details",
     image:
-      "https://private-user-images.githubusercontent.com/55355863/291058896-e54dd901-da9a-4571-a185-bdc6e3905d5f.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MTYzODksIm5iZiI6MTcwMjgxNjA4OSwicGF0aCI6Ii81NTM1NTg2My8yOTEwNTg4OTYtZTU0ZGQ5MDEtZGE5YS00NTcxLWExODUtYmRjNmUzOTA1ZDVmLlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDEyMjgwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiNmEwOTY2MDdiMzNmYjgzY2M1NDkyOTYzNGYxOTEwMjQ1OTMxYTY4N2E1Zjg4M2IxM2JiZDlmMTE2ODk3NzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jkq8KcXy5CFu1yNzGv_F-fC9XoBt26YjHrj9uaNaWoE",
+      "https://private-user-images.githubusercontent.com/55355863/291056619-8975f9f3-b603-4973-9f0f-ddeb373f8e9a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDkzMDksIm5iZiI6MTcwMzM0OTAwOSwicGF0aCI6Ii81NTM1NTg2My8yOTEwNTY2MTktODk3NWY5ZjMtYjYwMy00OTczLTlmMGYtZGRlYjM3M2Y4ZTlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDE2MzAwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2NzQ3ZWQwMTg0Nzk1ZDQ4ODA0ODY3Y2M3ZjEyZDQ5MDc2N2VkMzUyMzFhMWE3YjI5Mzk3YjNiZDRmMjEwN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8Sw8Gd7-EcGebSaSzwbDfI4jQx2tt0qJ-p4zQ8yOaxs",
     tags: ["React Js", "JavaScript", "TMDB Api", "Redux"],
     category: "web app",
     github: "https://github.com/iamankit555/movix",
@@ -189,13 +265,13 @@ export const projects = [
     member: [],
   },
   {
-    id: 1,
+    id: 4,
     title: "My Portfolio",
     date: "Nov 2023 - Nov 2023",
     description:
       "Developed a Frontend web application that have all my details including education,Expreience, project and Contact ",
     image:
-      "https://private-user-images.githubusercontent.com/55355863/291058623-3ed69dc5-179b-4770-8381-250e12e93c7f.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MTU3OTAsIm5iZiI6MTcwMjgxNTQ5MCwicGF0aCI6Ii81NTM1NTg2My8yOTEwNTg2MjMtM2VkNjlkYzUtMTc5Yi00NzcwLTgzODEtMjUwZTEyZTkzYzdmLlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDEyMTgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRhYzkxZTM3MzE1YTc3ZDcxMjZkYjc3MzZhOGE1YzgzYjY1NGQ4ODAyNmU1ODhjYTI2MTFjNDk4NjkyMzA0ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NHfxQGSRD5UmQIgNvoiRjOlBaWAwi1T-MtPvV_N-lYs",
+      "https://private-user-images.githubusercontent.com/55355863/291056352-b12fbc9d-f699-411c-bb26-f77e4dd6698b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDk0MTcsIm5iZiI6MTcwMzM0OTExNywicGF0aCI6Ii81NTM1NTg2My8yOTEwNTYzNTItYjEyZmJjOWQtZjY5OS00MTFjLWJiMjYtZjc3ZTRkZDY2OThiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDE2MzE1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczYjdhN2IyN2I2NGNlNWEyYjI1OTY1NmI4ZjNlOTMzN2JjZWUyMjVjNzdmMTA1NjBjYzdhYjljYTY0MDcxMzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HCk4-XosFdCCN5Hp0Wt79_BmtTGc0WTCDPPz8ftKreI",
     tags: ["React Js", "JavaScript", "CSS", "Html"],
     category: "web app",
     github: "https://github.com/iamankit555/portfolio",
@@ -203,13 +279,13 @@ export const projects = [
     member: [],
   },
   {
-    id: 2,
+    id: 5,
     title: "Smart Contact Manager",
     date: "jan 2023 - May 2023",
     description:
       "Developed a Full Stack web application that allows users to Manage Contact related details. Technology used Spring boot using mysql as Database",
     image:
-      "https://private-user-images.githubusercontent.com/55355863/291055887-6316177c-1f3b-4fe4-a7ca-71300bf9bf9c.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MTQ1NjIsIm5iZiI6MTcwMjgxNDI2MiwicGF0aCI6Ii81NTM1NTg2My8yOTEwNTU4ODctNjMxNjE3N2MtMWYzYi00ZmU0LWE3Y2EtNzEzMDBiZjliZjljLlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDExNTc0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMGVkNTdiMDQwYTYyNTJmNjg1ZWIwM2Y3ZWVmOTliZDVkYzhiNGRiNDQyMDg3M2U2OWZmZmM5NDAzMzM2ZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MeIabExOZ-NBHUQs_o__JMTR_V97oFqZmHH8cwZoMAE",
+      "https://private-user-images.githubusercontent.com/55355863/291055885-d8088275-3ef6-4b52-b3b8-cfed1f772f78.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDk0ODQsIm5iZiI6MTcwMzM0OTE4NCwicGF0aCI6Ii81NTM1NTg2My8yOTEwNTU4ODUtZDgwODgyNzUtM2VmNi00YjUyLWIzYjgtY2ZlZDFmNzcyZjc4LlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDE2MzMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5Y2QzZDA4ZTU3ODdmYTAyOTQ1NTVlZmRkODRjZjY3NWM1ZmUxODIwMTE5N2NhZDhmMmNmN2E5OTI5MDk4ODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dzGcAy3MlIxmcnmr5U1h1-HdugD_28mM5AabiXg_9Oo",
     tags: ["SpringBoot", "Spring Data JPA", "MySQL", "HTML", "CSS", "Thymleaf"],
     category: "web app",
     github: "https://github.com/iamankit555/SmartContactManager",
@@ -217,7 +293,7 @@ export const projects = [
     member: [],
   },
   {
-    id: 3,
+    id: 6,
     title: "Ecommerce Web Application",
     date: "jan 2022 - May 2022",
     description:
